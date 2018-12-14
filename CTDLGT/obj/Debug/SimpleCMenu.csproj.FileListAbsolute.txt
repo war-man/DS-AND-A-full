@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\SimpleCMenu.exe.config
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\SimpleCMenu.exe
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\SimpleCMenu.pdb
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.exe
+C:\Users\Admin\Desktop\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.pdb
+F:\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\SimpleCMenu.exe.config
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.exe
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\SimpleCMenu.pdb

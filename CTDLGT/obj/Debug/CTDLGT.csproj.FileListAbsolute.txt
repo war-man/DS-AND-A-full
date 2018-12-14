@@ -1,0 +1,21 @@
+F:\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\CTDLGT.exe.config
+F:\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\CTDLGT.exe
+F:\SimpleConsoleMenu-master\SimpleCMenu\bin\Debug\CTDLGT.pdb
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\CTDLGT.csprojAssemblyReference.cache
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\CTDLGT.csproj.CoreCompileInputs.cache
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\CTDLGT.exe
+F:\SimpleConsoleMenu-master\SimpleCMenu\obj\Debug\CTDLGT.pdb
+F:\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe.config
+F:\CTDLGT\CTDLGT\obj\Debug\CTDLGT.exe
+F:\CTDLGT\CTDLGT\obj\Debug\CTDLGT.pdb
+F:\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe
+F:\CTDLGT\CTDLGT\bin\Debug\CTDLGT.pdb
+F:\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csprojAssemblyReference.cache
+F:\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csproj.CoreCompileInputs.cache
+D:\TEST visual\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe.config
+D:\TEST visual\CTDLGT\CTDLGT\bin\Debug\CTDLGT.exe
+D:\TEST visual\CTDLGT\CTDLGT\bin\Debug\CTDLGT.pdb
+D:\TEST visual\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csprojAssemblyReference.cache
+D:\TEST visual\CTDLGT\CTDLGT\obj\Debug\CTDLGT.csproj.CoreCompileInputs.cache
+D:\TEST visual\CTDLGT\CTDLGT\obj\Debug\CTDLGT.exe
+D:\TEST visual\CTDLGT\CTDLGT\obj\Debug\CTDLGT.pdb

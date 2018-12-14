@@ -1,0 +1,6 @@
+Insert: 1 2 3 4 14 -5 -10
+Delete: 3
+Insert: 256
+Find: 8
+Find: 14
+Delete: -5
